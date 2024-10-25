@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2015 by original authors @ fontello.com</metadata>
+<defs>
+<font id="icons" horiz-adv-x="1000" >
+<font-face font-family="icons" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="left-open-big" unicode="&#xe800;" d="m452-20q26-26 0-48-26-26-48 0l-392 394q-24 24 0 50l392 394q22 26 48 0 26-22 0-48l-358-372z" horiz-adv-x="465" />
+<glyph glyph-name="right-open-big" unicode="&#xe801;" d="m13-20l358 370-358 372q-26 26 0 48 26 26 48 0l392-394q24-26 0-50l-392-394q-22-26-48 0-26 22 0 48z" horiz-adv-x="465" />
+<glyph glyph-name="index" unicode="&#xe802;" d="m0 850h300v-300h-300v300z m700-300h300v300h-300v-300z m-350 0h300v300h-300v-300z m-350-350h300v300h-300v-300z m700 0h300v300h-300v-300z m-350 0h300v300h-300v-300z m-350-350h300v300h-300v-300z m700 0h300v300h-300v-300z m-350 0h300v300h-300v-300z" horiz-adv-x="1000" />
+<glyph glyph-name="mail" unicode="&#xe803;" d="m965 595c5 3 10 8 15 10v35c-5 0-10 0-15 0-310 0-620 0-930 0-5 0-10 0-15 0v-32c15-10 33-20 48-33 140-97 277-192 417-290 13-7 20-7 30 0 150 103 300 208 450 310m15-580v528c-155-108-310-215-462-323-13-10-20-10-35 0-153 108-308 215-463 323v-528c68 0 135 0 203 0 245 0 490 0 735 0 7 0 15 0 22 0" horiz-adv-x="1000" />
+<glyph glyph-name="instagram" unicode="&#xe804;" d="m740 38h-480c-40 0-72 32-72 72v480c0 40 32 73 72 73h480c40 0 73-33 73-73v-480c0-40-33-72-73-72m-240 432c-67 0-120-55-120-120 0-67 55-120 120-120 68 0 120 55 120 120 0 68-52 120-120 120m240 98c0 12-10 25-25 25h-72c-13 0-25-10-25-25v-73c0-12 10-25 25-25h72c13 0 25 10 25 25v73z m0-170h-55c5-15 8-33 8-48 0-105-85-192-193-192-105 0-192 85-192 192 0 18 2 33 7 48h-55v-265c0-13 10-25 25-25h433c12 0 25 10 25 25v265z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
